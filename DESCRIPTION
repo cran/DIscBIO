@@ -1,8 +1,8 @@
 Package: DIscBIO
-Date: 2020-07-30
+Date: 2020-10-06
 Title: A User-Friendly Pipeline for Biomarker Discovery in Single-Cell
         Transcriptomics
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
 	c(
 		person(
@@ -46,7 +46,7 @@ Depends: R (>= 4.0), SingleCellExperiment
 Suggests: testthat, Seurat
 LazyData: true
 RoxygenNote: 7.1.1
-URL: https://github.com/ocbe-uio/DIscBIO#usage
+URL: https://github.com/ocbe-uio/DIscBIO
 BugReports: https://github.com/ocbe-uio/DIscBIO/issues
 Collate: 'DIscBIO-classes.R' 'DIscBIO-generic-ClassVectoringDT.R'
         'DIscBIO-generic-ClustDiffGenes.R' 'DIscBIO-generic-Clustexp.R'
@@ -74,11 +74,11 @@ Collate: 'DIscBIO-classes.R' 'DIscBIO-generic-ClassVectoringDT.R'
         'prepExampleDataset.R' 'reformatSiggenes.R' 'replaceDecimals.R'
         'samr-adapted.R'
 NeedsCompilation: no
-Packaged: 2020-08-25 08:46:40 UTC; waldir
+Packaged: 2020-10-06 09:28:13 UTC; waldir
 Author: Salim Ghannoum [aut, cph],
   Alvaro Köhn-Luque [aut, ths],
   Waldir Leoncio [cre, aut],
   Damiano Fantini [ctb]
 Maintainer: Waldir Leoncio <w.l.netto@medisin.uio.no>
 Repository: CRAN
-Date/Publication: 2020-08-26 11:30:08 UTC
+Date/Publication: 2020-10-06 12:00:06 UTC
