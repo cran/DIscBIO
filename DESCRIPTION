@@ -1,8 +1,8 @@
 Package: DIscBIO
-Date: 2020-10-06
+Date: 2020-11-13
 Title: A User-Friendly Pipeline for Biomarker Discovery in Single-Cell
         Transcriptomics
-Version: 1.0.1
+Version: 1.1.0
 Authors@R: 
 	c(
 		person(
@@ -70,15 +70,14 @@ Collate: 'DIscBIO-classes.R' 'DIscBIO-generic-ClassVectoringDT.R'
         'DIscBIO-generic-pseudoTimeOrdering.R' 'J48DT.R' 'J48DTeval.R'
         'Jaccard.R' 'NetAnalysis.R' 'Networking.R' 'PPI.R'
         'PlotMBpca.R' 'RpartDT.R' 'RpartEVAL.R' 'VolcanoPlot.R'
-        'customConverters.R' 'datasets.R' 'internal-functions.R'
-        'prepExampleDataset.R' 'reformatSiggenes.R' 'replaceDecimals.R'
-        'samr-adapted.R'
+        'customConverters.R' 'datasets.R'
+        'internal-functions-samr-adapted.R' 'internal-functions.R'
 NeedsCompilation: no
-Packaged: 2020-10-06 09:28:13 UTC; waldir
+Packaged: 2020-11-13 06:16:46 UTC; waldir
 Author: Salim Ghannoum [aut, cph],
   Alvaro Köhn-Luque [aut, ths],
   Waldir Leoncio [cre, aut],
   Damiano Fantini [ctb]
 Maintainer: Waldir Leoncio <w.l.netto@medisin.uio.no>
 Repository: CRAN
-Date/Publication: 2020-10-06 12:00:06 UTC
+Date/Publication: 2020-11-13 10:20:08 UTC
