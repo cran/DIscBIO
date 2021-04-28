@@ -1,8 +1,8 @@
 Package: DIscBIO
-Date: 2020-11-13
+Date: 2021-04-28
 Title: A User-Friendly Pipeline for Biomarker Discovery in Single-Cell
         Transcriptomics
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: 
 	c(
 		person(
@@ -33,14 +33,15 @@ Description: An open, multi-algorithmic pipeline for easy, fast and efficient
 	analysis of cellular sub-populations and the molecular signatures that
 	characterize them. The pipeline consists of four successive steps: data
 	pre-processing, cellular clustering with pseudo-temporal ordering, defining
-	differential expressed genes and biomarker identification. This package
-	implements extensions of the work published by Ghannoum et. al. (2019)
+	differential expressed genes and biomarker identification. More details on
+	Ghannoum et. al. (2021) <doi:10.3390/ijms22031399>. This package implements
+	extensions of the work published by Ghannoum et. al. (2019)
 	<doi:10.1101/700989>.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: methods, TSCAN, boot, httr, mclust, statmod, igraph, RWeka,
-        philentropy, NetIndices, png, grDevices, readr, RColorBrewer,
-        ggplot2, rpart, fpc, cluster, rpart.plot, tsne, AnnotationDbi,
+        philentropy, NetIndices, png, grDevices, RColorBrewer, ggplot2,
+        rpart, fpc, cluster, rpart.plot, tsne, AnnotationDbi,
         org.Hs.eg.db, graphics, stats, utils, impute
 Depends: R (>= 4.0), SingleCellExperiment
 Suggests: testthat, Seurat
@@ -73,11 +74,11 @@ Collate: 'DIscBIO-classes.R' 'DIscBIO-generic-ClassVectoringDT.R'
         'customConverters.R' 'datasets.R'
         'internal-functions-samr-adapted.R' 'internal-functions.R'
 NeedsCompilation: no
-Packaged: 2020-11-13 06:16:46 UTC; waldir
+Packaged: 2021-04-28 05:48:21 UTC; waldir
 Author: Salim Ghannoum [aut, cph],
   Alvaro Köhn-Luque [aut, ths],
   Waldir Leoncio [cre, aut],
   Damiano Fantini [ctb]
 Maintainer: Waldir Leoncio <w.l.netto@medisin.uio.no>
 Repository: CRAN
-Date/Publication: 2020-11-13 10:20:08 UTC
+Date/Publication: 2021-04-28 07:00:06 UTC
