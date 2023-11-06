@@ -1,7 +1,7 @@
-7b7f8fc2547be0df6f78d49d1ed9fbe0 *DESCRIPTION
+901a21dfa5ddb9ba5bcec7567be6cd03 *DESCRIPTION
 a41bb99f9b6d636c0226c796fff89db5 *LICENSE
-fc9dd62a9761145aa13c370b2c97947b *NAMESPACE
-7f8d08366dca98966fe8f64542f81279 *NEWS.md
+8867ab50d9f8ba760b601ac386a054ed *NAMESPACE
+3b2236479ea4326c4226f3ade20c9868 *NEWS.md
 e5f8fa54bc76a33164768951048b5e06 *R/DIscBIO-classes.R
 d2580c9beb36401d10dc45b680adef4c *R/DIscBIO-generic-ClassVectoringDT.R
 c4cc682f3b5616511ffbc7ce1ae30434 *R/DIscBIO-generic-ClustDiffGenes.R
@@ -28,7 +28,7 @@ c6674957d0e3e68f0fb13c109dfc0b66 *R/DIscBIO-generic-plottSNE.R
 af3be42eb846be102dc3031e4eefcd6a *R/DIscBIO-generic-pseudoTimeOrdering.R
 4af3d0ae8fcd781da7256ddb62bca05a *R/J48DT.R
 d77e15aa4c2b2b9a91b4f0ad6f0e60a2 *R/J48DTeval.R
-d72a69aa5eb20cbf6c8f221a0ccb5ebf *R/Jaccard.R
+6388718fc571f159fa468561e46750c2 *R/Jaccard.R
 51532a9c364913a72afc670212e0c5e7 *R/NetAnalysis.R
 6c3157ad93a993ed6291a5aac38ad664 *R/Networking.R
 f487c822eefc7b2fc392c73b71402979 *R/PPI.R
@@ -36,7 +36,7 @@ f487c822eefc7b2fc392c73b71402979 *R/PPI.R
 b6e827d7257eda0e5a4bc4df75bc8604 *R/RpartDT.R
 597df24dce2e8f4d1fb96ce0275c2336 *R/RpartEVAL.R
 8f0f4cd2c46317a245976d65c4d30ed5 *R/VolcanoPlot.R
-3a2e5c0ee4fa0292d9140476cfc8931f *R/bootstrap.R
+db3f9ff7545f12309741c7c4f8022074 *R/bootstrap.R
 9801b98550ea171bdd6eebf0551d8ccf *R/calc_pcareduceres.R
 8d85c4687ab8af961fde857df7c9f5a9 *R/cross.val.R
 0c1a7b363e89666119e9bfccc4cdcd95 *R/customConverters.R
